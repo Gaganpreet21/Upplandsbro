@@ -1,0 +1,13 @@
+.player {
+    text-align: center;
+    margin: 20px;
+}
+
+.player img {
+    width: 150px; /* Adjust size as needed */
+    height: 150px;
+    border-radius: 50%; /* Circular images */
+    margin-bottom: 10px;
+}
+
+/* Add more styles as per your design preferences */
