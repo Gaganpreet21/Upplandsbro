@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Us</title>
+</head>
+<body>
+    <header>
+        <h1>About UpplanbsBro Cricket Clu</h1>
+    </header>
+    
+    <section>
+        <h2>UpplandsBro Cricket Club: A Story of Passion, Respect, and Cricket</h2>
+        <p>
+           <In the heart of our community lies a vibrant pulse, a rhythm felt every weekend on the lush greens of our local cricket ground. This is the home of the "UpplandsBro Cricket Club," a cricket club that embodies the spirit of sportsmanship and camaraderie.
+
+Founded on the simple yet profound love for cricket, our club is a sanctuary for those who seek the thrill of the game amidst their busy lives. We are a diverse group, united by our shared passion for cricket. Our members come from all walks of life, each with their own story, but on the field, we are one – a team dedicated to the joy of playing.
+
+Every weekend, the UBCC don their colors with a singular ethos: to play each match with unwavering intensity and a fierce desire to win. The crack of the bat, the cheer of a well-timed shot, and the collective groan of a near miss – these are the sounds that define our weekends. We play hard, challenging each other to bring out our best, but always within the spirit of the game.
+
+Yet, what truly sets the UBCC apart is the profound understanding that life's responsibilities extend beyond the boundary ropes. Our club is a haven where the stresses of the workweek dissolve into the sheer enjoyment of the game. We respect that for many of us, there are priorities and commitments that transcend cricket. This understanding fosters a culture of mutual respect and support among our members, making our bond stronger, both on and off the field.
+
+In our club, every member, regardless of skill level, finds a place. We're not just a team; we're a family. We celebrate our victories with humility and accept our defeats with grace, always learning, always growing. The UBCC are more than just a cricket club; we are a testament to the enduring spirit of amateur sports, where the love for the game is the true winner.
+
+So, as the weekend dawns, you'll find us there, at our beloved ground, cricket bats in hand, ready for the game we adore. We are the UBCC, and this is our story.>
+        </p>
+    </section>
+    <section>
+        <h2>Practise Sessions</h2>
+        <p>
+            <We start indoor practice in March on weekends. Howeover, during the season we usually have atleast one practice session during week. Given the different proffesional responsibilities we all have none of the practice sessions are complusory.>
+        </p>
+    </section>
+    </section>
+        <h3>Find Us</h3>
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d637.1465344443059!2d17.739565155404684!3d59.4796767030176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sse!4v1705270657391!5m2!1sen!2sse" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        
+    </section>
+
+</body>
+</html>
