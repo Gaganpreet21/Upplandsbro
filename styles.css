@@ -90,7 +90,7 @@ footer {
 }
 
 .club-image {
-    max-width: 600px; /* Adjust as needed */
+    max-width: none; /* Adjust as needed */
     height: auto; /* Maintain aspect ratio */
 }
 
