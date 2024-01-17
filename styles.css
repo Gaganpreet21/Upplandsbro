@@ -101,11 +101,12 @@ footer {
 
     .club-image,
     .club-text {
-        max-width: 100%; /* Full width on smaller screens */
+        width: 100%; /* Full width on smaller screens */
     }
 
     .club-image {
-        max-width: none; /* Smaller size for smaller screens */
+        max-width: 100%; /* Smaller size for smaller screens */
+        width: auto;
     }
 }
 
