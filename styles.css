@@ -52,29 +52,27 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
+/* Container for the team, using Flexbox */
 .team-container {
     display: flex;
     flex-wrap: wrap;
 }
 
+/* Style for each player card */
 .player {
-    flex: 1 1 30%; /* Adjust this to control the width of each player card */
+    flex: 1 1 50%; /* Adjust this to control the width of each player card */
     margin: 10px; /* Spacing between cards */
-}
-
-/* Player Card Style */
-.player {
     text-align: center;
-    margin: 20px;
 }
 
-/* Player Image Style */
+/* Style for player images */
 .player img {
     width: 150px; /* Adjust size as needed */
     height: 150px;
     border-radius: 50%; /* Circular images */
     margin-bottom: 10px;
 }
+
 
 /* Responsive Design for Player Images */
 @media screen and (max-width: 600px) {
