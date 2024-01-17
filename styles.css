@@ -82,4 +82,20 @@ footer {
     }
 }
 
+.club-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.club-image{
+    max-width: 300px;
+    height: auto;
+}
+
+.club-text{
+    max-width: 600px;
+}
+
 /* Additional styles can be added below */
