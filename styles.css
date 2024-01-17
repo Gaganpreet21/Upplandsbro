@@ -105,7 +105,7 @@ footer {
     }
 
     .club-image {
-        max-width: 100%; /* Smaller size for smaller screens */
+        max-width: 50%; /* Smaller size for smaller screens */
         width: auto;
     }
 }
