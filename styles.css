@@ -80,22 +80,23 @@ footer {
         width: 100px;
         height: 100px;
     }
-}
-
-.club-info{
+    
+.club-info {
     display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 20px;
+    align-items: center; /* Aligns items vertically in the center */
+    justify-content: center; /* Centers the content horizontally */
+    gap: 20px; /* Spacing between image and text */
+    flex-direction: row-reverse; /* Reverses the order to put the image on the right */
 }
 
-.club-image{
-    max-width: 150px;
-    height: auto;
+.club-image {
+    max-width: 300px; /* Adjust as needed */
+    height: auto; /* Maintain aspect ratio */
 }
 
-.club-text{
-    max-width: 600px;
+.club-text {
+    max-width: 600px; /* Adjust as per your content */
 }
+
 
 /* Additional styles can be added below */
