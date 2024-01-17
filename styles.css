@@ -40,6 +40,10 @@ section {
     padding: 15px;
     background-color: white; /* White background for content */
 }
+p {
+    line-height: 1.6; /* Example value, adjust as needed */
+}
+
 
 /* Footer Style */
 footer {
