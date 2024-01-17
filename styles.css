@@ -93,7 +93,9 @@ footer {
     max-width: 300px; /* Adjust as needed */
     height: auto; /* Maintain aspect ratio */
 }
-
+.club-text {
+    max-width: 600px; /* Adjust as per your content */
+}
 @media screen and (max-width: 600px) {
     .club-info {
         flex-direction: column;
