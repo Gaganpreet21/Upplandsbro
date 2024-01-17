@@ -94,9 +94,6 @@ footer {
     height: auto; /* Maintain aspect ratio */
 }
 
-.club-text {
-    max-width: 600px; /* Adjust as per your content */
-}
 @media screen and (max-width: 600px) {
     .club-info {
         flex-direction: column;
@@ -106,12 +103,12 @@ footer {
     .club-text {
         max-width: 100%; /* Full width on smaller screens */
     }
-}
-@media screen and (max-width: 600px) {
+
     .club-image {
-        max-width: 250px; /* Smaller size for smaller screens */
+        max-width: none; /* Smaller size for smaller screens */
     }
 }
+
 
 
 /* Additional styles can be added below */
