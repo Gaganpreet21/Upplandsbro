@@ -1,8 +1,61 @@
+/* General Body Style */
+body {
+    background-color: #f0f0f0; /* Light grey background */
+    font-family: Arial, sans-serif;
+}
+
+/* Header Style */
+header {
+    background-color: #0073e6; /* Blue background */
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Navigation Bar Style */
+nav {
+    background-color: #333; /* Dark grey background */
+    overflow: hidden;
+}
+
+/* Navigation Links Style */
+nav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+/* Navigation Links - Hover Effect */
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Section Style */
+section {
+    margin: 15px;
+    padding: 15px;
+    background-color: white; /* White background for content */
+}
+
+/* Footer Style */
+footer {
+    background-color: #0073e6;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Player Card Style */
 .player {
     text-align: center;
     margin: 20px;
 }
 
+/* Player Image Style */
 .player img {
     width: 150px; /* Adjust size as needed */
     height: 150px;
@@ -10,10 +63,12 @@
     margin-bottom: 10px;
 }
 
-/* Add more styles as per your design preferences */
+/* Responsive Design for Player Images */
 @media screen and (max-width: 600px) {
     .player img {
         width: 100px;
         height: 100px;
     }
 }
+
+/* Additional styles can be added below */
