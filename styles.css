@@ -52,6 +52,15 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
+.team-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.player {
+    flex: 1 1 30%; /* Adjust this to control the width of each player card */
+    margin: 10px; /* Spacing between cards */
+}
 
 /* Player Card Style */
 .player {
