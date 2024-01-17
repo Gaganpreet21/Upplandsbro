@@ -93,6 +93,7 @@ footer {
     max-width: 300px; /* Adjust as needed */
     height: auto; /* Maintain aspect ratio */
 }
+
 .club-text {
     max-width: 600px; /* Adjust as per your content */
 }
@@ -103,10 +104,8 @@ footer {
 
     .club-image,
     .club-text {
-        width: 100%; /* Full width on smaller screens */
+        max-width: 100%; /* Full width on smaller screens */
     }
-
-
 }
 
 
